@@ -1,9 +1,9 @@
 # ------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Smart TV List
+# Title: Smart TV List
 # Expires: 1 day
 # Total number of network filters: 72
 # -------------------------------------[INFO]---------------------------------------
-# Smart TV list
+# Smart TV list, takes care of telemetry and ads on smart tv's
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.lgappstv.com
