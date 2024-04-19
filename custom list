@@ -1,12 +1,10 @@
-# Title: zman0-cmd block list
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub, and other opensource information.
-# 
-# 
-#------------------------------------------------------
-# Block list, borrowed from d3ward. Under CC BY-NC-SA 4.0 DEED
-#
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Custom Block list, zman0-cmd
+# Expires: 1 day
+# Total number of network filters: 16
+# -------------------------------------[INFO]---------------------------------------
+# Smart TV list
+# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com

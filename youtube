@@ -2,7 +2,7 @@
 # Title: The Block List Project - Youtube List
 # Expires: 1 day
 # Total number of network filters: 24280
-#
+#-------------------------------------[Info]----------------------------------------
 # Youtube list - Take this list with a grain of salt. Google is always changing their ad serving domains.
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 r1---sls.googlevideo.com
