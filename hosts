@@ -1,9 +1,25 @@
 # Title: zman0927 block list
 #
 # This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
+# with a dash of crowd sourcing via GitHub, and other opensource information.
+# 
+# 
+#------------------------------------------------------
+# Block list, borrowed from d3ward. Under CC BY-NC-SA 4.0 DEED
 #
-#
-# ===============================================================
-
 0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 gtm.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
