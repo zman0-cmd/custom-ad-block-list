@@ -1,0 +1,9 @@
+# Title: zman0927 block list
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+#
+# ===============================================================
+
+0.0.0.0 analyticsengine.s3.amazonaws.com
