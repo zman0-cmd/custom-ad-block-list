@@ -1,7 +1,7 @@
 # ------------------------------------[UPDATE]--------------------------------------
 # Title: Custom Block list, zman0-cmd
 # Expires: 1 day
-# Total number of network filters: 39
+# Total number of network filters: 42
 # Last update: 19APR24
 # -------------------------------------[INFO]---------------------------------------
 # Some Additional Ad / Tracking lists. Brief for ease
@@ -48,3 +48,4 @@
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 lookmommynohands.com
